@@ -1,4 +1,4 @@
 #! /bin/bash
 
 
-echo "A sample first script is added. I have added something now. Webhook is successful"
+echo "A sample first script is added. I have added something now. Webhook is successful. Email part is done"
